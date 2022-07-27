@@ -1,7 +1,6 @@
 
-import React, { Component, useSyncExternalStore }  from 'react';
+import React, { Component }  from 'react';
 import CardList from '../component/CardList';
-import { robots } from '../component/robots';
 import SearchBox from '../component/SearchBox';
 import  './App.css';
 import Scroll from '../component/Scroll';
